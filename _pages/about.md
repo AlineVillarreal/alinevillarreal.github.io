@@ -14,15 +14,16 @@ Aline holds a Ph. D. in chemical engineering from the School of Chemistry of the
 She has done two postdoctoral research stays, the first in the Molecular Spectroscopy Laboratory in Santa Fé, and a second in the National School of Engineering and Extractive Industries in Mexico. 
 Currently, she works as a Science-Policy Fellow at the Ministry of Environment of Mexico City Government, where she works as a liaison between policymakers and academia.
 
+<br />
 ## Research interests 
 ======
 
-+ Heterogeneous catalysis
+  + Heterogeneous catalysis
 
-+ Machine learning for heterogeneous catalysis 
+  + Machine learning for heterogeneous catalysis 
 
-+ Spectroscopy 
+  + Spectroscopy 
 
-+ Automated synthesis of materials 
+  + Automated synthesis of materials 
 
-+ Science-Policy Interface
+  + Science-Policy Interface
