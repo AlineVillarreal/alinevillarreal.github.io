@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# **About**
+
+# **About me**
 
 
 Aline holds a Ph. D. in chemical engineering from the School of Chemistry of the National Autonomous University of Mexico (UNAM). She also obtained her master's and bachelor's degrees in chemical engineering researching hydrodesulfurization catalysts. 
