@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
+# **About**
 
-<p style='text-align: justify;'>
+
 Aline holds a Ph. D. in chemical engineering from the School of Chemistry of the National Autonomous University of Mexico (UNAM). She also obtained her master's and bachelor's degrees in chemical engineering researching hydrodesulfurization catalysts. 
 She has done two postdoctoral research stays, the first in the Molecular Spectroscopy Laboratory in Santa Fé, and a second in the National School of Engineering and Extractive Industries in Mexico. 
-Currently, she works as a Science-Policy Fellow at the Ministry of Environment of Mexico City Government, where she works as a liaison between policymakers and academia. </p>
+Currently, she works as a Science-Policy Fellow at the Ministry of Environment of Mexico City Government, where she works as a liaison between policymakers and academia.
 
-<br />
-## Research interests 
+
+# **Research interests**
 ======
 
   + Heterogeneous catalysis
