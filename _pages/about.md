@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,6 @@ Currently, she works as a Science-Policy Fellow at the Ministry of Environment o
 
 
 # **Research interests**
-======
 
   + Heterogeneous catalysis
 
