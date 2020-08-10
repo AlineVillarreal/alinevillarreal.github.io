@@ -43,7 +43,7 @@ Publications
 
 4. Adsorption and separation of CO_2 from N_2 -rich gas on zeolites: Na-X faujasite vs Na-mordenite. A. Villarreal, G. Garbarino, P. Riani, E. Finocchio, B. Bosio, J. Ramírez, G. Busca. Journal of CO_2 utilization. 19 (2017) 266-275. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%20(2017).pdf)
 
-5.Analysis of the interaction of CO_2 with Na, K, and Ca-exchanged Mordenite. An infrared spectroscopic study. A. Villarreal, P. Castillo-Villalón, J. Ramírez. Journal of the Mexican Chemical Society. 61 (2017) 102-108. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%202017%20(2).pdf)
+5. Analysis of the interaction of CO_2 with Na, K, and Ca-exchanged Mordenite. An infrared spectroscopic study. A. Villarreal, P. Castillo-Villalón, J. Ramírez. Journal of the Mexican Chemical Society. 61 (2017) 102-108. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%202017%20(2).pdf)
 
 6. Catalizadores de hidrodesulfuración NiMo/SiO_2/Al_2O_3. Estudio por FTIR de la interacción ácido cítrico-soporte, A. Villarreal, A. Gutiérrez-Alejandre, J. Ramírez, Superficies y vacío, 1 (2016) 14-18. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%202016.pdf)
 
