@@ -11,16 +11,23 @@ Webinars
 During the COVID-19 pandemic I have participated in 2 webinars 
 
 1. Science-policy interface webinar series (_organized by the first cohort of SPI fellows in Mexico City_)
-A vision on SPI from a mexican point of view. All the sessions can be watched on YouTube
-**SPI Outlook and the importance of scientific advising** [Session 1](https://www.youtube.com/watch?v=CzRPqKp1QG4&t=22s)
-**STI ecoystem and SPI mechanisms** [Session 2](https://www.youtube.com/watch?v=JlfNC7f-Qsg)
-**Experiences from the SPI fellows in Mexico City** [Session 3](https://www.youtube.com/watch?v=SpZiNoR206I&t=2s)
+
+A vision on SPI from a mexican point of view. All sessions can be watched on YouTube
+
+* **SPI Outlook and the importance of scientific advising** [Session 1](https://www.youtube.com/watch?v=CzRPqKp1QG4&t=22s)
+
+* **STI ecoystem and SPI mechanisms** [Session 2](https://www.youtube.com/watch?v=JlfNC7f-Qsg)
+
+* **Experiences from the SPI fellows in Mexico City** [Session 3](https://www.youtube.com/watch?v=SpZiNoR206I&t=2s)
 
 2. Characterization of porous materials (_organized by the Mexican Academy of Catalysis_)
+
 Two sessions dedicated to the principles and troubleshooting of N<sub>2</sub> physisorption
+
 All sessions can be watched on Facebook
-[Session 1](https://www.facebook.com/sara.acat.58/videos/332656437707081)
-[Session 2](https://www.facebook.com/sara.acat.58/videos/333986820907376)
+* [Session 1](https://www.facebook.com/sara.acat.58/videos/332656437707081)
+
+* [Session 2](https://www.facebook.com/sara.acat.58/videos/333986820907376)
 
 Talks
 ======
