@@ -14,9 +14,9 @@ Webinars
 
 A vision on SPI from a mexican point of view. All sessions can be watched on YouTube
 
-* SPI Outlook and the importance of scientific advising [Session 1](https://www.youtube.com/watch?v=CzRPqKp1QG4&t=22s)
-* STI ecoystem and SPI mechanisms [Session 2](https://www.youtube.com/watch?v=JlfNC7f-Qsg)
-* Experiences from the SPI fellows in Mexico City [Session 3](https://www.youtube.com/watch?v=SpZiNoR206I&t=2s)
+* [SPI Outlook and the importance of scientific advising](https://www.youtube.com/watch?v=CzRPqKp1QG4&t=22s)
+* [STI ecoystem and SPI mechanisms](https://www.youtube.com/watch?v=JlfNC7f-Qsg)
+* [Experiences from the SPI fellows in Mexico City](https://www.youtube.com/watch?v=SpZiNoR206I&t=2s)
 
 ### 2. Characterization of porous materials 
 (_organized by the Mexican Academy of Catalysis_)
