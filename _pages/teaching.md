@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Here you will find some materials that I elaborated for the courses I have teached. 
+Here you will find some of my course materials
 
 ### Invited class on "The energy in context"
 Economic analysis and research group  
