@@ -8,9 +8,9 @@ author_profile: true
 Here you will find some materials that I elaborated for the courses I have teached. 
 
 ### Invited class on "The energy in context"
-Economic analysis and research 
-Group lead by Nadiezhda Escatel and Angélica Maza 
-School of economy, UNAM. 
+Economic analysis and research  
+Group lead by Nadiezhda Escatel and Angélica Maza  
+School of economy, UNAM.  
 [Download](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/La%20energ%C3%ADa%20en%20contexto.pptx)
 
 ### Thermodynamics laboratory 
