@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Full CV can be downloaded from 
- [Download paper here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20MEXUS.pdf)
+ [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20MEXUS.pdf)
 as well.
