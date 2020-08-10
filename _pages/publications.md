@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Book chapter
 * Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas, R. and Villarreal, A. (2019). Catalytic Materials for Hydrodesulfurization Processes, Experimental Strategies to Improve Their Performance. In: J. Domínguez-Esquivel and M. Ramos, ed., Advanced Catalytic Materials: Current status and future progress, 1st ed. Springer International Publishing. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Portada%20y%20Cap.%20Springer.pdf)
 
+### Articles
 * Highly reversible sorption of acid gases by an environmentally friendly Mg-based MOF. E. Sánchez-González, P. G. M. Mileo, M. Sagastuy-Breña, R. Álvarez, J. E. Reynolds III, A. Villarreal, A. Gutiérrez-Alejandre, J. Ramírez, J. Balmaseda, E. González-Zamora, G. Maurin, S. M. Humphrey and I. A. Ibarra, Journal of Materials Chemistry A, 2018,6, 16900-16909. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Journal%20of%20Materials%20Chemistry%20A%20(2018).pdf)
 
 * Alumina as catalysts support: a study of the effect of small amounts of silica on MoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub> in ethanol oxidative dehydrogenation. A. Villarreal, G. Garbarino, P. Riani, A. Gutiérrez-Alejandre, J. Ramírez and G. Busca. Journal of Applied Research and Technology. 2018, 16, 484-487. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%20(2018)%20JART.pdf)
