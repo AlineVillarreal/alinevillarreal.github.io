@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
 Webinars
 ====== 
-
-During the COVID-19 pandemic I have participated in 2 webinars 
 
 ## 1. Science-policy interface webinar series 
 (_organized by the first cohort of SPI fellows in Mexico City_)
