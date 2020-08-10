@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Aline Villarreal"
-  avatar           : "profile.png"
+  avatar           : "fotoperfil.jpg"
   bio              : "Ingeniería química | catálisis | Interfaz Ciencia-política | Chemical engineer | Science policy fellow | Me encanta comer 😁"
   location         : "Mexico City"
   employer         : 
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _code
   - scope:
       path: ""
-      type: portfolio
+      type: code
     values:
       layout: single
       author_profile: true
