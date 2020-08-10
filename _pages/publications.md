@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Book chapter
+* “Impacto del COVID-19 en el empleo informal en ciudades latinoamericanas: elementos para el diseño de políticas públicas”, Capítulo de libro en coautoría con Villarreal, A., en Delgado, G.C. y D. López (Ed.). Las ciudades ante el COVID-19: nuevas direcciones para la investigación urbana y las políticas públicas. México, Plataforma de Conocimiento para la Transforma Urbana. ISBN: 978-64945-190-3. DOI: 10.5281/zenodo.3894075 [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Maza_Villarreal(2020).pdf)
+
 * Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas, R. and Villarreal, A. (2019). Catalytic Materials for Hydrodesulfurization Processes, Experimental Strategies to Improve Their Performance. In: J. Domínguez-Esquivel and M. Ramos, ed., Advanced Catalytic Materials: Current status and future progress, 1st ed. Springer International Publishing. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Portada%20y%20Cap.%20Springer.pdf)
 
 ### Articles
