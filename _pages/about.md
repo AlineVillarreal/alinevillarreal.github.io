@@ -22,7 +22,7 @@ Currently, I work as a Science-Policy Fellow at the Ministry of Environment of M
 
   + Machine learning for heterogeneous catalysis 
 
-  + Spectroscopy 
+  + Raman and Infrarred Spectroscopies 
 
   + Automated synthesis of materials 
 
