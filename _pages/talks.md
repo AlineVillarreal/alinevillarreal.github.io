@@ -27,30 +27,30 @@ Two sessions dedicated to the principles and troubleshooting of N<sub>2</sub> ph
 
 Talks
 ======
-* 2019  Villarreal A., Villarreal R. and Sanchéz-Minero, F., Machine learning and natural language processing for the identification of synthesis parameters of NiMo sulfide catalysts. XVI Congreso Mexicano de Catálisis. Villahermosa, México
+* 2019, Villarreal A., Villarreal R. and Sanchéz-Minero, F., Machine learning and natural language processing for the identification of synthesis parameters of NiMo sulfide catalysts. XVI Congreso Mexicano de Catálisis. Villahermosa, México
 
-* 2017  Villarreal, A., Ramírez, J., Castillo Villalón, P., Gutiérrez- Alejandre, A., Adsorción y separación de CO<sub>2</sub> y CH<sub>4</sub> proveniente de biogás en mordenita y zeolita natural. XV Congreso Mexicano de Catálisis. Monterrey, México
+* 2017, Villarreal, A., Ramírez, J., Castillo Villalón, P., Gutiérrez- Alejandre, A., Adsorción y separación de CO<sub>2</sub> y CH<sub>4</sub> proveniente de biogás en mordenita y zeolita natural. XV Congreso Mexicano de Catálisis. Monterrey, México
 
-* 2016  Villarreal, Aline, Hernández Islas, L., Cruz Garduza, O., Gutiérrez- Alejandre, A., Ramírez, J., Análisis de la capacidad de hidrogenación de catalizadores de hidrodesulfuración NiMo adicionados con ácido cítrico y fósforo. XXV Congreso CiCat. Montevideo, Uruguay.
+* 2016, Villarreal, Aline, Hernández Islas, L., Cruz Garduza, O., Gutiérrez- Alejandre, A., Ramírez, J., Análisis de la capacidad de hidrogenación de catalizadores de hidrodesulfuración NiMo adicionados con ácido cítrico y fósforo. XXV Congreso CiCat. Montevideo, Uruguay.
 
-* 2015  Villarreal, A., Ramírez, J., Castillo Villalón, P., Gutiérrez- Alejandre, A., Characterization of carbonate formation on mordenite from CO<sub>2</sub> adsorption investigated by FTIR. XXV International Materials Research Congress, Cancún, México.
+* 2015, Villarreal, A., Ramírez, J., Castillo Villalón, P., Gutiérrez- Alejandre, A., Characterization of carbonate formation on mordenite from CO<sub>2</sub> adsorption investigated by FTIR. XXV International Materials Research Congress, Cancún, México.
 
-* 2014  Villarreal, A., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García, R., Ramírez, J., Efecto de la adición de ácido cítrico en catalizadores NiMo. Congreso Iberoamericano de Catálisis, Medellín, Colombia.
+* 2014, Villarreal, A., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García, R., Ramírez, J., Efecto de la adición de ácido cítrico en catalizadores NiMo. Congreso Iberoamericano de Catálisis, Medellín, Colombia.
 
-* 2013  Villarreal, A., Castillo-Villalón, P., Cedeño-Caero, L., Ramírez, J. Importance of the sulfidation step in the preparation of highly active NiMo hydrodesulfurization catalysts. (Talk) XXII International Materials Research Congress, Cancún, México.
+* 2013, Villarreal, A., Castillo-Villalón, P., Cedeño-Caero, L., Ramírez, J. Importance of the sulfidation step in the preparation of highly active NiMo hydrodesulfurization catalysts. (Talk) XXII International Materials Research Congress, Cancún, México.
 
 Posters
 ======
-* 2019  Ricardo Peralta, Aline Villarreal Medina, Felipe Sanchéz-Minero, Aída Gutiérrez Alejandre y Rogelio Cuevas-García. Efecto del soporte en catalizadores NiMo sulfurados para la hidrodesoxigenación catalítica de aceites vegetales. XVI Congreso Mexicano de Catálisis y VI Congreso Internacional. 2019, Villahermosa, México.
+* 2019, Ricardo Peralta, Aline Villarreal Medina, Felipe Sanchéz-Minero, Aída Gutiérrez Alejandre y Rogelio Cuevas-García. Efecto del soporte en catalizadores NiMo sulfurados para la hidrodesoxigenación catalítica de aceites vegetales. XVI Congreso Mexicano de Catálisis y VI Congreso Internacional. 2019, Villahermosa, México.
 Felipe Sánchez, Ricardo Peralta, Aline Villarreal, Guadalupe Silva y Sergio Valle. Hidrotratamiento de aceite de higuerilla utilizando catalizadores sulfurados de NiMo para la obtención de combustibles verdes. Congreso Mexicano de Catálisis y VI Congreso Internacional. 2019, Villahermosa, México.
 
-* 2018  Villarreal A., Ramírez, J., Cuevas-García, Rogelio, Gutiérrez-Alejandre, A., Valenzuela, Jorge. H2S adsorption capacity of highly stable Na-, Na-H-, Ca- and K-mordenites. International Mexican Congress on Chemical Reaction Engineering 2018, Mazatlán, México.
+* 2018, Villarreal A., Ramírez, J., Cuevas-García, Rogelio, Gutiérrez-Alejandre, A., Valenzuela, Jorge. H2S adsorption capacity of highly stable Na-, Na-H-, Ca- and K-mordenites. International Mexican Congress on Chemical Reaction Engineering 2018, Mazatlán, México.
 
-* 2015  Villarreal A., Cruz-Garduza, O., Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García. Análisis de la hidrogenación de naftaleno utilizando catalizadores NiMoP adicionados con ácido cítrico. XIV Congreso Mexicano de Catálisis. Valle de Bravo, México.
-Ayala, A., Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García, R., Villarreal, A. Estudio de la relación hidrogenación/desulfuración en catalizadores NiMo/Al2O3 y NiMo/SiO2/Al2O3. XIV Congreso Mexicano de Catálisis. Valle de Bravo, México.
+* 2015, Villarreal A., Cruz-Garduza, O., Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García. Análisis de la hidrogenación de naftaleno utilizando catalizadores NiMoP adicionados con ácido cítrico. XIV Congreso Mexicano de Catálisis. Valle de Bravo, México.
+Ayala, A., Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas-García, R., Villarreal, A. Estudio de la relación hidrogenación/desulfuración en catalizadores NiMo/Al<sub>2</sub>O<sub>3</sub> y NiMo/SiO2/Al<sub>2</sub>O<sub>3</sub>. XIV Congreso Mexicano de Catálisis. Valle de Bravo, México.
 Villarreal Medina, Aline. Potencial de Mordenita como adsorbedor de H2S proveniente de biogás. 5° Congreso de alumnos de posgrado de la UNAM.
 
-* 2013  Villarreal Medina, Aline. Efecto de la adición de ácido cítrico en la actividad catalítica de desulfuración de 4,6-DMDBT de catalizadores NiMo/SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>. 3° Congreso de alumnos de posgrado de la UNAM.
+* 2013, Villarreal Medina, Aline. Efecto de la adición de ácido cítrico en la actividad catalítica de desulfuración de 4,6-DMDBT de catalizadores NiMo/SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>. 3° Congreso de alumnos de posgrado de la UNAM.
 
 Forum
 =======
