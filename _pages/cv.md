@@ -41,7 +41,7 @@ Peer-reviewed publications
 
 * Alumina as catalysts support: a study of the effect of small amounts of silica on MoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub> in ethanol oxidative dehydrogenation. A. Villarreal, G. Garbarino, P. Riani, A. Gutiérrez-Alejandre, J. Ramírez and G. Busca. Journal of Applied Research and Technology. 2018, 16, 484-487. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%20(2018)%20JART.pdf)
 
-* Adsorption and separation of CO<sup>2</sup> from N<sub>2</sub> -rich gas on zeolites: Na-X faujasite vs Na-mordenite. A. Villarreal, G. Garbarino, P. Riani, E. Finocchio, B. Bosio, J. Ramírez, G. Busca. Journal of CO_2 utilization. 19 (2017) 266-275. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%20(2017).pdf)
+* Adsorption and separation of CO<sub>2</sub> from N<sub>2</sub> -rich gas on zeolites: Na-X faujasite vs Na-mordenite. A. Villarreal, G. Garbarino, P. Riani, E. Finocchio, B. Bosio, J. Ramírez, G. Busca. Journal of CO<sub>2</sub> utilization. 19 (2017) 266-275. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%20(2017).pdf)
 
 * Analysis of the interaction of CO<sub>2</sub> with Na, K, and Ca-exchanged Mordenite. An infrared spectroscopic study. A. Villarreal, P. Castillo-Villalón, J. Ramírez. Journal of the Mexican Chemical Society. 61 (2017) 102-108. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Villarreal%202017%20(2).pdf)
 
