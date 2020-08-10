@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be downloaded from [here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20MEXUS.pdf) or the extended version in Spanish [here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20Extenso%20-%20Espa%C3%B1ol.pdf) as well.
+
 Education
 ======
 * Ph.D in Chemical Engineering, UNAM, 2017 
@@ -94,4 +96,4 @@ Languages
 * Alemán (Intermediate)
 * Italiano (basic)
 
-Full CV can be downloaded from [here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20MEXUS.pdf) or the extended version in Spanish [here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Aline%20Villarreal%20CV%20-%20Extenso%20-%20Espa%C3%B1ol.pdf) as well.
+
