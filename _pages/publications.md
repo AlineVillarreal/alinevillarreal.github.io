@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Peer-reviewed publications
-======
 
 * Ramírez, J., Castillo-Villalón, P., Gutiérrez-Alejandre, A., Cuevas, R. and Villarreal, A. (2019). Catalytic Materials for Hydrodesulfurization Processes, Experimental Strategies to Improve Their Performance. In: J. Domínguez-Esquivel and M. Ramos, ed., Advanced Catalytic Materials: Current status and future progress, 1st ed. Springer International Publishing. [Download here](https://github.com/AlineVillarreal/alinevillarreal.github.io/blob/master/files/Portada%20y%20Cap.%20Springer.pdf)
 
